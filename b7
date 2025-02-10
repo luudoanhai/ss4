@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tìm kiếm sản phẩm</h1>
+    <label>Từ khóa tìm kiếm:</label><br>
+    <input type="text"><br><br>
+    <label>Loại sản phẩm:</label><br>
+    <select id="op" name="op">
+        <option value="">Điện tử</option>
+        <option value="">Máy tính</option>
+    </select><br><br>
+    <button>Tìm kiếm</button>
+</body>
+</html>
